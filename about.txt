@@ -1,0 +1,30 @@
+Period Calculator - Live in sync with your cycle
+
+1. Home
+https://localhost/period-calculator/
+
+2. Blogs
+https://localhost/period-calculator/blogs
+
+3. Blogs Admin
+https://localhost/period-calculator/blogs/admin
+
+4. Period Calculator Dashboard
+https://localhost/period-calculator/dashboard
+
+Blog Admin Credintials
+email: sita@gmail.com  password: 1234 role: Admin
+email: pandeysubash404@gmail.com  password: 1234 role: Admin
+email: pratikshya@gmail.com  password: 1234 role: Co-Admin
+email: sonali@gmail.com  password: 1234 role: Co-Admin
+
+User Dashboard Credintials
+- Create/Register new account or, 
+email: pandeysubash404@gmail.com  password: Subash123
+
+Changes
+- Make a required cahnges on db_config.php
+- Adjust with your DBUSER, DBPWD, DBHOST, and DBNAME
+
+Before run the software, make sure to excute the SQL Query on MySQL or on PhpMyAdmin
+- You can find the complete SQL Query in database.sql
