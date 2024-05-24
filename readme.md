@@ -3,6 +3,17 @@
 ## Project Overview
 "Period-Calculator" is a menstrual cycle calculating application designed to revolutionize menstrual health management for women. The website provides a user-friendly interface that simplifies the calculating of menstrual cycles, offering comprehensive insights and educational resources. With “Period-Calculator,” users can effortlessly calculate their menstrual cycles, recording symptoms, and access educational materials.
 
+## Screenshot
+Figure: Screenshot of Period-Calculator
+![hero](./screenshots/hero.png)
+![calculation](./screenshots/calculation.png)
+![read-blog](./screenshots/read-blog.png)
+![faq](./screenshots/faq.png)
+![blog](./screenshots/blog.png)
+![dashboard](./screenshots/dashboard.png)
+![modal](./screenshots/module.png)
+![period](./screenshots/period.png)
+
 ## Features
 - **Cycle Calculating**: Record and predict menstrual cycles based on user input.
 - **Symptom Recording**: Track symptoms experienced during menstrual periods.

@@ -48,7 +48,7 @@ include_once ('header.php');
                     to:
                 <ul>
                     <li>Menstrual cycle data</li>
-                    <li>Symptom tracking information</li>
+                    <li>Symptom recording information</li>
                     <li>Personal preferences and settings</li>
                 </ul>
                 </p>
@@ -74,7 +74,7 @@ include_once ('header.php');
                 </p>
                 <h4>Contact Us</h4>
                 <p>
-                    If you have any questions or concerns about this Privacy Policy or the practices of Rakshya Medical,
+                    If you have any questions or concerns about this Privacy Policy or the practices of ABC Medical,
                     please contact us at <span style="color:#FB5988;">pandeysubash404@gmail.com</span>.
                 </p>
             </div>

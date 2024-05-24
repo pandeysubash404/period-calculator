@@ -1,6 +1,6 @@
 <!-- index page -->
 <?php
-$title = 'Home - Append Bootstrap Template';
+$title = 'Home - Period Calculator';
 $class = 'index-page';
 include_once ('header.php');
 ?>

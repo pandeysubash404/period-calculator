@@ -70,7 +70,7 @@ Create TABLE `users`(
  weight float(5) NOT NULL
 );
 
-INSERT INTO `users` VALUES(1,"Subash","pandeysubash404@gmail.com","d1e6989494884caca3c994c88b050cd8",'2002-05-02',39.8);
+INSERT INTO `users` VALUES(1,"Subash","pandeysubash404@gmail.com","d1e6989494884caca3c994c88b050cd8",'2002-01-02',59.8);
 
  SELECT * FROM `users`;
 
